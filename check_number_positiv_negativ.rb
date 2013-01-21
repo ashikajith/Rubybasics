@@ -1,9 +1,6 @@
-
 puts "hello world"
-
-
-
 def check_sign(number)
+
 	if(number == 0)
 		
 		puts "#{number} is zero"
